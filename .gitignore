@@ -1,23 +1,8 @@
-##############################
-## Java
-##############################
-*.class
-out/
-bin/
-target/
-
-##############################
-## IDE
-##############################
-
-.idea/
-.idea_modules/
-.settings/
-.vscode/
-*.iml
-*.ipr
-*.iws
-.metadata
-.classpath
-.project
-desktop.ini
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

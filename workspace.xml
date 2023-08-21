@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="270c9b44-828a-4ee3-bbb3-974eaacb9c2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parcel Delivery Project/src/database/DatabaseConnectionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parcel Delivery Project/src/database/DatabaseConnectionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parcel Delivery Project/src/model/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parcel Delivery Project/src/model/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parcel Delivery Project/src/model/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parcel Delivery Project/src/model/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parcel Delivery Project/src/ui/ButtonPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parcel Delivery Project/src/ui/ButtonPanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/seoyoung_branch" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="matthew_branch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Nzzr6mRPGUvlZILZjeMk4o3hne" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/권서영/OneDrive/바탕 화면/cs304/project/project_a2w0b_p1c9o_y4k0w/Parcel Delivery Project/src/scripts/SQLscript.sql&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;67414a6d-3044-4593-8b23-371b40c7098f&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.Shipper">
+    <configuration name="Shipper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Shipper" />
+      <module name="project_a2w0b_p1c9o_y4k0w" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLscript.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="SQLscript.sql" type="DatabaseScript" editBeforeRun="true" temporary="true">
+      <script-file value="$PROJECT_DIR$/Parcel Delivery Project/src/scripts/SQLscript.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="67414a6d-3044-4593-8b23-371b40c7098f" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shipper" />
+        <item itemvalue="Database Script.SQLscript.sql" />
+        <item itemvalue="Database Script.SQLscript.sql" />
+        <item itemvalue="Application.Shipper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="270c9b44-828a-4ee3-bbb3-974eaacb9c2a" name="Changes" comment="" />
+      <created>1680681894034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680681894034</updated>
+      <workItem from="1680681895377" duration="202000" />
+      <workItem from="1680721738124" duration="10766000" />
+      <workItem from="1680737898102" duration="784000" />
+      <workItem from="1680741981639" duration="818000" />
+      <workItem from="1680745735543" duration="2595000" />
+      <workItem from="1681263733547" duration="5105000" />
+      <workItem from="1681328597456" duration="961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Parcel Delivery Project/src/database/DatabaseConnectionHandler.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
